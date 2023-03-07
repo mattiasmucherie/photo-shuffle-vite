@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.PhotoViewerWrapper {
+  min-height: 100vh;
+  max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.PhotoViewerWrapper img {
+  width: 100%;
+  height: auto;
+}
